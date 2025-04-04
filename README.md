@@ -4,18 +4,6 @@ Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 # Implementation - Feature Fusion (Numerical information with Image Data)
 ![image](https://github.com/user-attachments/assets/8d71ad1c-bf2d-476c-9bed-923164cd876c)
 
-# Considerations for object Segmentation:
-1. Multi-perspective exposures and data from events [2].
-2. Fusion approach from FGT-NET [5].
-3. Fusion while performing Semantic Segmentation (which is Pixel-wise classification).
-Transfer learning. 
-4. Encoder – Pre-trained model DenseNet201 [6].
-5. Decoder – U_net [7].
-![image](https://github.com/user-attachments/assets/a5fa2d71-8f8f-4663-a690-ea7b7a9ad891)
-
-
-
-
 # Research Objectives:
 1. Semantic analysis of the windows (Glass).
 
@@ -27,10 +15,25 @@ Transfer learning.
 
 5. Semantic analysis - -with two inputs (Numerical + Image) and segmentation as output
 
+   
+
+# Considerations for Object Segmentation:
+1. Multi-perspective exposures and data from events [2].
+
+2.  Fusion approach from FGT-NET [5].
 
 
+3. Fusion while performing Semantic Segmentation (which is Pixel-wise classification).
 
 
+4. Transfer learning and fine-tuning  for better optimization of results.
+
+ 
+5. Encoder – Pre-trained model DenseNet201 [6].
+
+
+6. Decoder – U_net [7].
+![image](https://github.com/user-attachments/assets/a5fa2d71-8f8f-4663-a690-ea7b7a9ad891)
 
 
 # References:
