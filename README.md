@@ -36,7 +36,8 @@ Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 ![image](https://github.com/user-attachments/assets/8d71ad1c-bf2d-476c-9bed-923164cd876c)
 
 # Proposed Approach
-![image](https://github.com/user-attachments/assets/9c7fe6b6-84d6-424a-aa3a-dec0d4341d06)
+![image](https://github.com/user-attachments/assets/0bfdffc0-d206-433f-b44e-6d0eb8fe3f3d)
+
 
 
 # An instance of Numerical Feature Vector data -
