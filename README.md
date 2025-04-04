@@ -13,6 +13,12 @@ Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 
 5. Semantic analysis - -with two inputs (Numerical + Image) and segmentation as output
 
+
+# Experimental Setup for Data Acquisition: - https://www.iwt-bodensee.de/mobilitaet/ 
+
+![image](https://github.com/user-attachments/assets/b67d9c0e-5bc1-4632-a4eb-5efd88cac9ca)
+
+
    
 # Considerations for Object Segmentation:
 1. Multi-perspective exposures and data from events [2].
