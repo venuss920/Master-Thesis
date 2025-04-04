@@ -1,5 +1,6 @@
 # Thesis
-Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
+
+# Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 
 
 # Research Objectives:
