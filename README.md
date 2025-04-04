@@ -1,6 +1,6 @@
 # Master Thesis
 
-# Title: Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
+# Title: Detection of Windows in Outdoor RGBImages via Camera Behavior Mode.
 
 
 # Research Objectives:
