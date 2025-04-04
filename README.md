@@ -40,6 +40,11 @@ Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 
 
 # An instance of Numerical Feature Vector data -
+The 12 columns of data are 
+(Q = Quality, hdop = Horizontal Degree of 
+Precision, ns = nanoseconds, IMU = Inertial Measurement Unit). Note: The table below is an 
+example of an image.
+
 ![image](https://github.com/user-attachments/assets/2bb1f7ce-66f5-4ebb-a228-c8e755616856)
 
 
