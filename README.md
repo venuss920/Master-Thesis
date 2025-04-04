@@ -38,6 +38,11 @@ Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 # Proposed Approach
 ![image](https://github.com/user-attachments/assets/9c7fe6b6-84d6-424a-aa3a-dec0d4341d06)
 
+
+# An instance of Numerical Feature Vector data -
+![image](https://github.com/user-attachments/assets/2bb1f7ce-66f5-4ebb-a228-c8e755616856)
+
+
 # Custom Dataset of window glasses. 
 
 1. Images – standard RGB images without depth information of images rather than depth information we would use different numerical data captured from the sensors, the image captured during daytime with the approach; For a better understanding of the complicated scenarios, the image data with event information (Numerical data) in addition to the multi-view perspective of the images would be captured [2]
