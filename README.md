@@ -7,14 +7,12 @@
 
 ![image](https://github.com/user-attachments/assets/ac7bc20e-c901-4801-878d-137a1ce38a4c)
 
-
 2. Germany has overall LOD2
 - No facade Information
 
 3. Thesis goal: detecting the windows (glass)
 - State of the art: thermal cameras,
 - New: RGB cameras + Camera behavior model.
-![image](https://github.com/user-attachments/assets/6de43c6a-cc79-4040-867f-48cafa3de184)
 
 
 # Research Objectives:
