@@ -1,8 +1,6 @@
 # Thesis
 Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 
-# Implementation - Feature Fusion (Numerical information with Image Data)
-![image](https://github.com/user-attachments/assets/8d71ad1c-bf2d-476c-9bed-923164cd876c)
 
 # Research Objectives:
 1. Semantic analysis of the windows (Glass).
@@ -16,7 +14,6 @@ Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 5. Semantic analysis - -with two inputs (Numerical + Image) and segmentation as output
 
    
-
 # Considerations for Object Segmentation:
 1. Multi-perspective exposures and data from events [2].
 
@@ -33,7 +30,10 @@ Detection of Windows in Outdoor RGB Images using Camera Behavior Model.
 
 
 6. Decoder – U_net [7].
-![image](https://github.com/user-attachments/assets/a5fa2d71-8f8f-4663-a690-ea7b7a9ad891)
+
+
+# Implementation - Feature Fusion (Numerical information with Image Data)
+![image](https://github.com/user-attachments/assets/8d71ad1c-bf2d-476c-9bed-923164cd876c)
 
 
 # References:
