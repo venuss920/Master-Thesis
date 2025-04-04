@@ -75,7 +75,23 @@ example of an image.
 ![image](https://github.com/user-attachments/assets/1f4d58fb-0c82-48bc-928e-231c9539aea3)
 
 
+# Outcomes and Discussion
 
+- Numerical data related to images has been fused.
+
+- Outdoor environment – Presence of sunlight and a little bit of cloudy atmosphere.
+
+- Multi-view viewpoints of the windows in a complex scene are captured.
+
+- Numerical data – data from events.
+
+- Proposed Model = almost 89 percent mean intersection over union.
+
+- Proposed model without fusion (only image) = almost 95 percent mean intersection over union.
+
+- U_Net with fusion = almost 78 percent mean intersection over union.
+
+- U_net only images = almost 76 percent mean intersection over union.
 
 
 
